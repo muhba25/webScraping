@@ -1,0 +1,29 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhba25/webScraping.git"
+  },
+  "author": "MuhammadBasoAdrianIbrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhba25/webScraping/issues"
+  },
+  "homepage": "https://github.com/muhba25/webScraping#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase": "^7.14.1",
+    "mongodb": "^3.5.6",
+    "x-ray": "^2.3.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
