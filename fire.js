@@ -1,6 +1,8 @@
 
 var firebase = require('firebase')
 
+//ini contoh confignya
+
 const firebaseConfig = {
   apiKey: "AIzaSyDQ3FjMlH4InK0DSrX__-H5yH2ZGjnyAd0",
   authDomain: "harvest-ce63f.firebaseapp.com",
